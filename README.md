@@ -59,7 +59,7 @@ And you need to make sure that the stepper motors are microstepped. Under each s
 Short from top to bottom like so:
 ![image](https://github.com/user-attachments/assets/6980463a-a608-4daa-a116-48cfffb0b79a)
 
-When everything is built correctly, upload the GRBL firmware to the arduino, there are many tutorials on youtube, but it is fairly straight forward if you have expeiernce with arduino. 
+When everything is built correctly, upload the GRBL firmware to the arduino, there are many tutorials on youtube, but it is fairly straight forward if you have experience with arduino. 
 https://www.youtube.com/watch?v=Xlkmso01vUk&t=6s
 
 And thats about it! Have fun with the plotter, and to send gcode to it, use a program such as G-sender or UGS, and generate gcode using vpype!
