@@ -55,9 +55,9 @@ A few notes, a 12V source is required to power this, and gets screwed into the t
 ![image](https://github.com/user-attachments/assets/b7a0064d-c230-4a93-acea-fe5a74dea8b2)
 
 And you need to make sure that the stepper motors are microstepped. Under each stepper motor driver slot, there are 6 pins, make sure they are all shorted:  
-![image](https://github.com/user-attachments/assets/f6568c5c-3b0b-45f8-8ae5-dc1213cf86f0)
-Short from top to bottom like so:  
-![image](https://github.com/user-attachments/assets/6980463a-a608-4daa-a116-48cfffb0b79a)
+![image](https://github.com/user-attachments/assets/f6568c5c-3b0b-45f8-8ae5-dc1213cf86f0)  
+Short from top to bottom like so:    
+![image](https://github.com/user-attachments/assets/6980463a-a608-4daa-a116-48cfffb0b79a)  
 
 When everything is built correctly, upload the GRBL firmware to the arduino, there are many tutorials on youtube, but it is fairly straight forward if you have experience with arduino.   
 https://www.youtube.com/watch?v=Xlkmso01vUk&t=6s
