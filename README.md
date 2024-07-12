@@ -1,43 +1,43 @@
-A blot that can draw 30cm x 50cm! Controlled with an arduino and 4 stepper motors, it runs the GRBL firmware and uses the CNC shield with 4 a4988 stepper drivers. 
+A blot that can draw 30cm x 50cm! Controlled with an arduino and 4 stepper motors, it runs the GRBL firmware and uses the CNC shield with 4 a4988 stepper drivers.   
 
-I built this as a project to pass the time while waiting for an acutal hack club blot, but it turned into an adventure of pen plotters, GRBL, and much much more. 
+I built this as a project to pass the time while waiting for an acutal hack club blot, but it turned into an adventure of pen plotters, GRBL, and much much more.   
 
-If you would like to create your own, here are the parts I used to build the project:
+If you would like to create your own, here are the parts I used to build the project:  
 
-3x 2020 aluminium extrusions (I used 1M here but you can use any length youd like)
+3x 2020 aluminium extrusions (I used 1M here but you can use any length youd like)  
 https://www.zyltech.com/2020-v-groove-extrusion-pre-cut-lengths-300mm-2000mm/?sku=EXT-2020-REG-300-VGRV
 
-3x V-slot gantry plates + POM wheels (These are 3D printable, but they have horrible tolerances and are not rigid enough for precise drawings)
+3x V-slot gantry plates + POM wheels (These are 3D printable, but they have horrible tolerances and are not rigid enough for precise drawings)  
 https://www.amazon.ca/Standard-Aluminum-Dimensional-Printer-Accessories/dp/B0B5DY7XLH
 
-A ton of m5 bolts, washers, nuts, and V groove nuts. (didn't really keep count of how many!)
+A ton of m5 bolts, washers, nuts, and V groove nuts. (didn't really keep count of how many!)  
 https://www.amazon.ca/Screws-Stainless-Thread-Bright-Machine/dp/B09TDRJ5GR/
 https://www.amazon.ca/Boeray-Carbon-Hammer-Aluminum-Extrusion/dp/B01G7ZYHHI/
 
-1x Arduino + CNC sheild + 4x a4988 Motor drivers
+1x Arduino + CNC sheild + 4x a4988 Motor drivers  
 https://www.amazon.ca/DAOKI-Expansion-Arduino-Heatsink-Engraving/dp/B08KFYKKN4/
 
-1x 5m GT2 belt
+1x 5m GT2 belt  
 https://www.amazon.ca/HICTOP-Printer-Timing-Meters-Creality/dp/B00YMM6IQW/
 
-3x belt tensioner
+3x belt tensioner  
 https://www.amazon.ca/Garosa-Straighten-Synchronous-Stretching-Straightening/dp/B09QKPZSHZ/
 
-1x Linear rail (you only need 10cm/100mm)
+1x Linear rail (you only need 10cm/100mm)  
 https://www.zyltech.com/zyltech-mgn9-linear-rail-with-single-or-double-carriage-block/
 
-and a ton of 3d printed parts! 
+and a ton of 3d printed parts!   
 
-1. 2x y axis motor mount
+1. 2x y axis motor mount  
 ![image](https://github.com/user-attachments/assets/25a22592-720b-4cac-bd4e-fa533f49efeb)
 
-2. 2x extrusion mount
+2. 2x extrusion mount  
 ![image](https://github.com/user-attachments/assets/2bba4bd5-4d46-4a4d-9f46-891f4083bfda)
 
-3. 1x x axis motor mount (I ended up replacing this with a metal part)
+3. 1x x axis motor mount (I ended up replacing this with a metal part)  
 ![image](https://github.com/user-attachments/assets/fa0975b1-69f5-415e-b1ee-df2968f21b2b)
 
-4. 1x pen motor mount
+4. 1x pen motor mount  
 ![image](https://github.com/user-attachments/assets/3ab3b95c-f95e-4b2c-a4da-ed6c4c1dc2ed)
 
 ![image](https://github.com/user-attachments/assets/b6ee275e-d1fd-47d4-af19-828cbc1ebd6b)
