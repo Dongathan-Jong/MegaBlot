@@ -46,25 +46,25 @@ For the arduino case, you can make any one you want, I just found one off of thi
 
 As for the electronics, 
 
-There are many tutorials on youtube as to how to build a cnc machine with this type of setup, I have linked a few that I used.
-https://www.youtube.com/watch?v=Xlkmso01vUk&t=6s
-https://www.youtube.com/watch?v=5qAwCg7XPZw (Replace the linear rods with the extrusion and vslot gantries.)
+There are many tutorials on youtube as to how to build a cnc machine with this type of setup, I have linked a few that I used.  
+https://www.youtube.com/watch?v=Xlkmso01vUk&t=6s  
+https://www.youtube.com/watch?v=5qAwCg7XPZw (Replace the linear rods with the extrusion and vslot gantries.)  
+  
 
-
-A few notes, a 12V source is required to power this, and gets screwed into the terminals:
+A few notes, a 12V source is required to power this, and gets screwed into the terminals:  
 ![image](https://github.com/user-attachments/assets/b7a0064d-c230-4a93-acea-fe5a74dea8b2)
 
-And you need to make sure that the stepper motors are microstepped. Under each stepper motor driver slot, there are 6 pins, make sure they are all shorted:
+And you need to make sure that the stepper motors are microstepped. Under each stepper motor driver slot, there are 6 pins, make sure they are all shorted:  
 ![image](https://github.com/user-attachments/assets/f6568c5c-3b0b-45f8-8ae5-dc1213cf86f0)
-Short from top to bottom like so:
+Short from top to bottom like so:  
 ![image](https://github.com/user-attachments/assets/6980463a-a608-4daa-a116-48cfffb0b79a)
 
-When everything is built correctly, upload the GRBL firmware to the arduino, there are many tutorials on youtube, but it is fairly straight forward if you have experience with arduino. 
+When everything is built correctly, upload the GRBL firmware to the arduino, there are many tutorials on youtube, but it is fairly straight forward if you have experience with arduino.   
 https://www.youtube.com/watch?v=Xlkmso01vUk&t=6s
 
-And thats about it! Have fun with the plotter, and to send gcode to it, use a program such as G-sender or UGS, and generate gcode using vpype!
-G-sender: https://sienci.com/gsender/
-UGS: https://winder.github.io/ugs_website/
-vpype: https://github.com/abey79/vpype
+And thats about it! Have fun with the plotter, and to send gcode to it, use a program such as G-sender or UGS, and generate gcode using vpype!  
+G-sender: https://sienci.com/gsender/  
+UGS: https://winder.github.io/ugs_website/  
+vpype: https://github.com/abey79/vpype  
 
 :)
