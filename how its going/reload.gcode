@@ -1,12 +1,16 @@
-( Select water color nr.)
-( G53 indicates machine coordinates - no transform required)
-( move Z in relative coordinates to compensate different tool length)
-( G91 G0 Z30                    ( move brush upwards in relative coordinates)
- G0 X63.088 Y-495.475    ( move brush towards color pad in absolute machine coordinates)
- G0 Z1.727          ( move brush downwards)
-
-
-
+G90 G0 X50.813 Y-492.950
+G90 G0 Z1.627
 G91 G0 Y-30
 G91 G0 X45
+G91 G0 Y30
+
+G90 G0 X100 Y-400
+G90 G0 X150 Y-400
+G90 G0 X150 Y-300
+G90 G0 X100 Y-300
+
+G90 G0 X95.813 Y-492.950
+
+G91 G0 Y-30
+G91 G0 X-45
 G91 G0 Y30
