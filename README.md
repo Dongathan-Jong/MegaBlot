@@ -24,10 +24,10 @@ A ton of m5 bolts, washers, nuts, and V groove nuts. (didn't really keep count o
 https://www.amazon.ca/Screws-Stainless-Thread-Bright-Machine/dp/B09TDRJ5GR/
 https://www.amazon.ca/Boeray-Carbon-Hammer-Aluminum-Extrusion/dp/B01G7ZYHHI/
 
-1x 5m GT2 belt  
+1x 5m GT2 belt (you might need more! YMMV)  
 https://www.amazon.ca/HICTOP-Printer-Timing-Meters-Creality/dp/B00YMM6IQW/
 
-3x belt tensioner  
+3x belt tensioner (you can replace these with 3d printed parts)
 https://www.amazon.ca/Garosa-Straighten-Synchronous-Stretching-Straightening/dp/B09QKPZSHZ/
 
 1x Linear rail (you only need 10cm/100mm)  
@@ -46,14 +46,15 @@ All 3d printed parts are printed using the bambu lab a1 mini, stock profile, 200
 3. 1x X axis motor mount v2  
 ![image](https://github.com/user-attachments/assets/833f4ddf-7fd5-4d77-8571-f1c674949353)  
 
-4. 1x pen motor mount (UNDER CONSTRUCTION)    
-
-
+4. 1x pen motor mount
+![image](https://github.com/user-attachments/assets/3991d896-ed29-4872-b756-6c095fe516b1)  
+  
 ![image](https://github.com/user-attachments/assets/b6ee275e-d1fd-47d4-af19-828cbc1ebd6b)
 
+
+# Electronics  
 For the arduino case, you can make any one you want, I just found one off of thingiverse. 
 
-As for the electronics, 
 
 There are many tutorials on youtube as to how to build a cnc machine with this type of setup, I have linked a few that I used.  
 https://www.youtube.com/watch?v=Xlkmso01vUk&t=6s  
@@ -68,6 +69,8 @@ And you need to make sure that the stepper motors are microstepped. Under each s
 Short from top to bottom like so:    
 ![image](https://github.com/user-attachments/assets/6980463a-a608-4daa-a116-48cfffb0b79a)  
 
+
+# Software 
 When everything is built correctly, upload the GRBL firmware to the arduino, there are many tutorials on youtube, but it is fairly straight forward if you have experience with arduino.   
 https://www.youtube.com/watch?v=Xlkmso01vUk&t=6s
 
