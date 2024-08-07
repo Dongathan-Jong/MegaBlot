@@ -6,6 +6,14 @@ I built this as a project to pass the time while waiting for an acutal hack club
 
 If you would like to create your own, here are the parts I used to build the project:  
 
+# Electrical Parts  
+1x Arduino + CNC sheild + 4x a4988 Motor drivers  
+https://www.amazon.ca/DAOKI-Expansion-Arduino-Heatsink-Engraving/dp/B08KFYKKN4/  
+
+4x NEMA17 Stepper Motors (I used 3x normal and 1x pancake for Z axis)  
+https://www.zyltech.com/store/stepper-motors/nema-17-motors/  
+
+# Mechanical Parts  
 3x 2020 aluminium extrusions (I used 1M here but you can use any length youd like)  
 https://www.zyltech.com/2020-v-groove-extrusion-pre-cut-lengths-300mm-2000mm/?sku=EXT-2020-REG-300-VGRV
 
@@ -15,9 +23,6 @@ https://www.amazon.ca/Standard-Aluminum-Dimensional-Printer-Accessories/dp/B0B5D
 A ton of m5 bolts, washers, nuts, and V groove nuts. (didn't really keep count of how many!)  
 https://www.amazon.ca/Screws-Stainless-Thread-Bright-Machine/dp/B09TDRJ5GR/
 https://www.amazon.ca/Boeray-Carbon-Hammer-Aluminum-Extrusion/dp/B01G7ZYHHI/
-
-1x Arduino + CNC sheild + 4x a4988 Motor drivers  
-https://www.amazon.ca/DAOKI-Expansion-Arduino-Heatsink-Engraving/dp/B08KFYKKN4/
 
 1x 5m GT2 belt  
 https://www.amazon.ca/HICTOP-Printer-Timing-Meters-Creality/dp/B00YMM6IQW/
@@ -29,18 +34,20 @@ https://www.amazon.ca/Garosa-Straighten-Synchronous-Stretching-Straightening/dp/
 https://www.zyltech.com/zyltech-mgn9-linear-rail-with-single-or-double-carriage-block/
 
 and a ton of 3d printed parts!   
+All 3d printed parts are printed using the bambu lab a1 mini, stock profile, 200mm/s, 30% infill.
 
-1. 2x y axis motor mount  
-![image](https://github.com/user-attachments/assets/25a22592-720b-4cac-bd4e-fa533f49efeb)
+# Printed Parts  
+1. 2x y axis motor mount v2  
+![image](https://github.com/user-attachments/assets/341bea2c-4da8-4b20-ae75-a19801528ce6)  
 
-2. 2x extrusion mount  
-![image](https://github.com/user-attachments/assets/2bba4bd5-4d46-4a4d-9f46-891f4083bfda)
+2. 2x extrusion mount v2  
+![image](https://github.com/user-attachments/assets/fb5bb205-a7dd-4d95-b796-0c06fd3610e9)  
 
-3. 1x x axis motor mount (I ended up replacing this with a metal part)  
-![image](https://github.com/user-attachments/assets/fa0975b1-69f5-415e-b1ee-df2968f21b2b)
+3. 1x X axis motor mount v2  
+![image](https://github.com/user-attachments/assets/833f4ddf-7fd5-4d77-8571-f1c674949353)  
 
-4. 1x pen motor mount  
-![image](https://github.com/user-attachments/assets/3ab3b95c-f95e-4b2c-a4da-ed6c4c1dc2ed)
+4. 1x pen motor mount (UNDER CONSTRUCTION)    
+
 
 ![image](https://github.com/user-attachments/assets/b6ee275e-d1fd-47d4-af19-828cbc1ebd6b)
 
