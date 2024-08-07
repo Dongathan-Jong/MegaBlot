@@ -46,7 +46,7 @@ All 3d printed parts are printed using the bambu lab a1 mini, stock profile, 200
 3. 1x X axis motor mount v2  
 ![image](https://github.com/user-attachments/assets/833f4ddf-7fd5-4d77-8571-f1c674949353)  
 
-4. 1x pen motor mount
+4. 1x pen motor mount  
 ![image](https://github.com/user-attachments/assets/3991d896-ed29-4872-b756-6c095fe516b1)  
   
 ![image](https://github.com/user-attachments/assets/b6ee275e-d1fd-47d4-af19-828cbc1ebd6b)
