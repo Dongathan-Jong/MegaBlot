@@ -1,4 +1,6 @@
-A blot that can draw 30cm x 50cm! Controlled with an arduino and 4 stepper motors, it runs the GRBL firmware and uses the CNC shield with 4 a4988 stepper drivers.   
+# MegaBlot
+
+A pen plotter that can draw 30cm x 50cm! Controlled with an arduino and 4 stepper motors, it runs the GRBL firmware and uses the CNC shield with 4 a4988 stepper drivers.   
   
 In total I spent around $200 CAD on this project, but it will cost way more if you buy it from the amazon links I provided. There are definitely cheaper alternatives online, and you can find them pretty easily through research.  
 
