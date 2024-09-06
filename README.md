@@ -33,7 +33,10 @@ https://www.amazon.ca/HICTOP-Printer-Timing-Meters-Creality/dp/B00YMM6IQW/
 https://www.amazon.ca/Garosa-Straighten-Synchronous-Stretching-Straightening/dp/B09QKPZSHZ/
 
 1x Linear rail (you only need 10cm/100mm)  
-https://www.zyltech.com/zyltech-mgn9-linear-rail-with-single-or-double-carriage-block/
+https://www.zyltech.com/zyltech-mgn9-linear-rail-with-single-or-double-carriage-block/  
+
+6mm x 2mm Neodymium magnets (9 magnets needed for each pen, 3 magnets needed for arm)  
+https://www.amazon.com/MIN-CI-Refrigerator-Whiteboard-Decorative/dp/B096LYVGPS/  
 
 and a ton of 3d printed parts!   
 All 3d printed parts are printed using the bambu lab a1 mini, stock profile, 200mm/s, 30% infill.
@@ -50,9 +53,15 @@ All 3d printed parts are printed using the bambu lab a1 mini, stock profile, 200
 
 4. 1x pen motor mount  
 ![image](https://github.com/user-attachments/assets/3991d896-ed29-4872-b756-6c095fe516b1)  
-  
-![image](https://github.com/user-attachments/assets/b6ee275e-d1fd-47d4-af19-828cbc1ebd6b)
 
+**Only print parts above for no pen changer, print parts under this for pen changer!**  
+
+5. 1x Pen Holder arm  
+![image](https://github.com/user-attachments/assets/8ad87520-87de-4f78-8e5e-7c8722fe37da)  
+
+6. 2020 pen mount + pen mount (print for as many pens as youd like, each pen will need both)  
+
+![image](https://github.com/user-attachments/assets/b94f77dd-271f-4d59-8705-9c04f150aa5f)  
 
 # Electronics  
 For the arduino case, you can make any one you want, I just found one off of thingiverse. 
@@ -70,7 +79,6 @@ And you need to make sure that the stepper motors are microstepped. Under each s
 ![image](https://github.com/user-attachments/assets/f6568c5c-3b0b-45f8-8ae5-dc1213cf86f0)  
 Short from top to bottom like so:    
 ![image](https://github.com/user-attachments/assets/6980463a-a608-4daa-a116-48cfffb0b79a)  
-
 
 # Software 
 When everything is built correctly, upload the GRBL firmware to the arduino, there are many tutorials on youtube, but it is fairly straight forward if you have experience with arduino.   
