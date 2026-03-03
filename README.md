@@ -9,34 +9,33 @@ I built this as a project to pass the time while waiting for an acutal hack club
 If you would like to create your own, here are the parts I used to build the project:  
 
 # Electrical Parts  
-1x Arduino + CNC sheild + 4x a4988 Motor drivers  
-https://www.amazon.ca/DAOKI-Expansion-Arduino-Heatsink-Engraving/dp/B08KFYKKN4/  
+[1x Arduino + CNC sheild + 4x a4988 Motor drivers  ](https://www.amazon.ca/DAOKI-Expansion-Arduino-Heatsink-Engraving/dp/B08KFYKKN4/  )
 
-4x NEMA17 Stepper Motors (I used 3x normal and 1x pancake for Z axis)  
-https://www.zyltech.com/store/stepper-motors/nema-17-motors/  
+
+[4x NEMA17 Stepper Motors (I used 3x normal and 1x pancake for Z axis)  ](https://www.zyltech.com/store/stepper-motors/nema-17-motors/  )
+
 
 # Mechanical Parts  
-3x 2020 aluminium extrusions (I used 1M here but you can use any length youd like)  
-https://www.zyltech.com/2020-v-groove-extrusion-pre-cut-lengths-300mm-2000mm/?sku=EXT-2020-REG-300-VGRV
+[3x 2020 aluminium extrusions](https://www.zyltech.com/2020-v-groove-extrusion-pre-cut-lengths-300mm-2000mm/?sku=EXT-2020-REG-300-VGRV) (I used 1M here but you can use any length youd like)  
 
-3x V-slot gantry plates + POM wheels (These are 3D printable, but they have horrible tolerances and are not rigid enough for precise drawings)  
-https://www.amazon.ca/Standard-Aluminum-Dimensional-Printer-Accessories/dp/B0B5DY7XLH
+[3x V-slot gantry plates + POM wheels ](https://www.amazon.ca/Standard-Aluminum-Dimensional-Printer-Accessories/dp/B0B5DY7XLH)(These are 3D printable, but they have horrible tolerances and are not rigid enough for precise drawings)  
 
-A ton of m5 bolts, washers, nuts, and V groove nuts. (didn't really keep count of how many!)  
-https://www.amazon.ca/Screws-Stainless-Thread-Bright-Machine/dp/B09TDRJ5GR/
-https://www.amazon.ca/Boeray-Carbon-Hammer-Aluminum-Extrusion/dp/B01G7ZYHHI/
 
-1x 5m GT2 belt (you might need more! YMMV)  
-https://www.amazon.ca/HICTOP-Printer-Timing-Meters-Creality/dp/B00YMM6IQW/
+A ton of m5 bolts, washers, nuts, and V groove nuts. (didn't really keep count of how many!)  [here](https://www.amazon.ca/Screws-Stainless-Thread-Bright-Machine/dp/B09TDRJ5GR/) or [here](https://www.amazon.ca/Boeray-Carbon-Hammer-Aluminum-Extrusion/dp/B01G7ZYHHI/)
 
-3x belt tensioner (you can replace these with 3d printed parts)
-https://www.amazon.ca/Garosa-Straighten-Synchronous-Stretching-Straightening/dp/B09QKPZSHZ/
 
-1x Linear rail (you only need 10cm/100mm)  
-https://www.zyltech.com/zyltech-mgn9-linear-rail-with-single-or-double-carriage-block/  
 
-6mm x 2mm Neodymium magnets (9 magnets needed for each pen, 3 magnets needed for arm)  
-https://www.amazon.com/MIN-CI-Refrigerator-Whiteboard-Decorative/dp/B096LYVGPS/  
+[1x 5m GT2 belt](https://www.amazon.ca/HICTOP-Printer-Timing-Meters-Creality/dp/B00YMM6IQW/) (you might need more! YMMV)  
+
+
+[3x belt tensioner](https://www.amazon.ca/Garosa-Straighten-Synchronous-Stretching-Straightening/dp/B09QKPZSHZ/) (you can replace these with 3d printed parts)
+
+
+[1x Linear rail](https://www.zyltech.com/zyltech-mgn9-linear-rail-with-single-or-double-carriage-block/  ) (you only need 10cm/100mm)  
+
+
+[6mm x 2mm Neodymium magnets](https://www.amazon.com/MIN-CI-Refrigerator-Whiteboard-Decorative/dp/B096LYVGPS/  ) (9 magnets needed for each pen, 3 magnets needed for arm)  
+
 
 and a ton of 3d printed parts!   
 All 3d printed parts are printed using the bambu lab a1 mini, stock profile, 200mm/s, 30% infill.
