@@ -5,6 +5,8 @@ A pen plotter that can draw 30cm x 50cm! Controlled with an arduino and 4 steppe
 In total I spent around $200 CAD on this project, but it will cost way more if you buy it from the amazon links I provided. There are definitely cheaper alternatives online, and you can find them pretty easily through research.  
 
 I built this as a project to pass the time while waiting for an acutal hack club blot, but it turned into an adventure of pen plotters, GRBL, and much much more.   
+Check out this demo video:   
+https://youtu.be/-_hqPLHjViM  
 
 If you would like to create your own, here are the parts I used to build the project:  
 
